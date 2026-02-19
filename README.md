@@ -105,6 +105,4 @@ This project demonstrates:
 
 This project reflects a practical understanding of manual Quality Assurance processes within a structured framework. It demonstrates the ability to assess system functionality, identify potential defects, and document findings in a clear and professional manner.
 
-The approach aligns with industry-standard QA practices and supports readiness for entry-level Quality Assurance roles.
-
 
