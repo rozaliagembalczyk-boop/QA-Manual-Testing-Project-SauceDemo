@@ -59,7 +59,7 @@ Testing was conducted using a structured manual testing approach, including:
 5. Identification and documentation of defects
 6. Prioritization of test cases based on business impact
 
-A total of **40 functional and negative test cases** were designed and executed.
+A total of **42 functional and negative test cases** were designed and executed.
 
 ---
 
